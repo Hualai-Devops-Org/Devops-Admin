@@ -5,6 +5,6 @@
 - 集成Ansible  
 ## 结构图  
 - 获取Prometheus状态  
-![image](https://raw.githubusercontent.com/Hualai-Devops-Org/Devops-Admin/master/demo/images/get_data_from_prom.png)  
+![image](https://devops-public-bucket.s3-us-west-2.amazonaws.com/Github/images/get_data_from_prom.png)  
 - 管理Prometheus  
-![image](https://raw.githubusercontent.com/Hualai-Devops-Org/Devops-Admin/master/demo/images/manage_prom.png)
+![image](https://devops-public-bucket.s3-us-west-2.amazonaws.com/Github/images/manage_prom.png)
