@@ -11,8 +11,9 @@
 - Prometheus告警列表、Targets列表、告警规则列表显示  
 - Prometheus服务器管理  
 ### Ansible  
-- 集成Ansible  
-- 主机管理  
+- 集成Ansible
+- 支持批量命令执行  
+- 在线管理主机：添加、删除、更新  
 ### Web SSH  
 - 网页终端  
 ## 结构图  
